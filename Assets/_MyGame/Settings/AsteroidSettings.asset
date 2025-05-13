@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91e79cdb5ac82574fb76f97c663a9b60, type: 3}
+  m_Name: AsteroidSettings
+  m_EditorClassIdentifier: 
+  asteroidDamage: 20
+  asteroidHealth: 6
+  minSpeed: 4
+  maxSpeed: 5
+  minRotationSpeed: 60
+  maxRotationSpeed: 120
+  finishLine: -1.5
+  minSpawnDelay: 0.4
+  maxSpawnDelay: 0.8
